@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uqPs1BUd6VlA4rhgLU+Joq5QrLu9BcYQ19SK90MWfjWbD5h6zzwvMHU1Pr403IzWnGlgAfOD5VEYmvGHdUJGvA==",
+  "dgSpecHash": "7Tb5+JAPNUjj73pOLEYAqsFE2MH08vMGqMWpTQ4tyNkCAFLAl7M1OxVWxSxwNt4BKwnvRuHdIQmf0yc1IW5DmQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\JOEL Estudio\\TIC\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+  "projectFilePath": "D:\\Documents\\JOEL Estudio\\TIC\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Familia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Familia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
